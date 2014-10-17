@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgp:home|Door43 (mgp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgp|d43-mgp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgp/archive/master.zip|d43-mgp.zip]]
+
+**Recent Changes**
+{{changes>ns = mgp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgp|Ethnologue data]]
+
